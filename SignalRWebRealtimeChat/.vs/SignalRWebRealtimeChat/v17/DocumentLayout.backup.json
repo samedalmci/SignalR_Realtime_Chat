@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samed\\source\\repos\\SignalRWebRealtimeChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34C663A0-821F-46DF-80B2-D9BC789E210F}|SignalRWebRealtimeChat\\SignalRWebRealtimeChat.csproj|c:\\users\\samed\\source\\repos\\signalrwebrealtimechat\\signalrwebrealtimechat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C663A0-821F-46DF-80B2-D9BC789E210F}|SignalRWebRealtimeChat\\SignalRWebRealtimeChat.csproj|solutionrelative:signalrwebrealtimechat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C663A0-821F-46DF-80B2-D9BC789E210F}|SignalRWebRealtimeChat\\SignalRWebRealtimeChat.csproj|c:\\users\\samed\\source\\repos\\signalrwebrealtimechat\\signalrwebrealtimechat\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C663A0-821F-46DF-80B2-D9BC789E210F}|SignalRWebRealtimeChat\\SignalRWebRealtimeChat.csproj|solutionrelative:signalrwebrealtimechat\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\samed\\source\\repos\\SignalRWebRealtimeChat\\SignalRWebRealtimeChat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalRWebRealtimeChat\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\samed\\source\\repos\\SignalRWebRealtimeChat\\SignalRWebRealtimeChat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SignalRWebRealtimeChat\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA9wFoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:37:27.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\samed\\source\\repos\\SignalRWebRealtimeChat\\SignalRWebRealtimeChat\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "SignalRWebRealtimeChat\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\samed\\source\\repos\\SignalRWebRealtimeChat\\SignalRWebRealtimeChat\\Models\\Group.cs",
+              "RelativeToolTip": "SignalRWebRealtimeChat\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:24:52.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
+    <ContainerRuntimeIdentifier>win10-x64</ContainerRuntimeIdentifier>
+    <ContainerBaseImage>mcr.microsoft.com/dotnet/aspnet:5.0</ContainerBaseImage>
+    <EnableSdkContainerDebugging>True</EnableSdkContainerDebugging>
+    <UserSecretsId>ae85cbba-fde1-4290-b7e8-ecac1032b108</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ContainerPort Include="443" />
+  </ItemGroup>
+
+</Project>
