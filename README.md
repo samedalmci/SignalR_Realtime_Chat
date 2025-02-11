@@ -16,7 +16,7 @@ Bu proje, SignalR’ın gerçek zamanlı veri iletimi ve çoklu kullanıcı etki
 Teknolojiler:
 
 SignalR: Gerçek zamanlı web uygulamaları için kullanılan kütüphane. ⚡️
-JavaScript (VS Code): Web arayüzü geliştirmek için kullanıldı. 🌍
+JavaScript ve HTML (VS Code): Web arayüzü geliştirmek için kullanıldı. 🌍
 C# ve Visual Studio: Backend geliştirme için kullanıldı. 🔧
 Bu projeyi kullanarak, SignalR teknolojisinin gücünü keşfederken, kullanıcılar arasında gerçek zamanlı, etkileşimli ve özelleştirilebilir sohbet odaları yaratma fırsatı elde edebilirsiniz. ✨👥
 
